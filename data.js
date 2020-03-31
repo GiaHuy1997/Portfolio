@@ -1,6 +1,6 @@
 const main = {
-  name: 'Your Name',
-  mail: 'your.mail@gmail.com',
+  name: 'Huy Thai Gia',
+  mail: 'thaigiahuy111997@gmail.com',
   img: 'https://organicthemes.com/demo/profile/files/2018/05/profile-pic.jpg',
   role: ['Full Stack Developer'],
   // Refer https://ionicons.com/ and put the icon name inside iconName key
@@ -8,37 +8,37 @@ const main = {
     {
       name: 'Home',
       iconName: 'logo-firefox',
-      link: 'https://sivanesh-s.github.io'
+      link: 'https://giahuy1997.github.io/'
     },
     {
       name: 'Github',
       iconName: 'logo-github',
-      link: 'https://github.com/sivanesh-s'
+      link: 'https://github.com/GiaHuy1997'
     },
     {
       name: 'Linkedin',
       iconName: 'logo-linkedin',
-      link: 'https://www.linkedin.com/in/sivanesh-shanmugam/'
+      link: '#'
     },
     {
       name: 'StackOverflow',
       iconName: 'logo-stackoverflow',
-      link: 'https://stackoverflow.com/users/6940525/sivanesh-s'
+      link: 'https://stackoverflow.com'
     },
     {
       name: 'Twitter',
       iconName: 'logo-twitter',
-      link: 'https://twitter.com/sivanesh_fiz'
+      link: 'https://twitter.com'
     },
     {
       name: 'npm',
       iconName: 'logo-npm',
-      link: 'https://www.npmjs.com/~sivanesh_s'
+      link: 'https://www.npmjs.com'
     },
     {
       name: 'Mail',
       iconName: 'mail-outline',
-      link: `mailto:${'yourmail@gmail.com'}?Subject=Hello%20again`
+      link: `mailto:${'thaigiahuy111997@gmail.com'}?Subject=Hello%20again`
     }
   ],
   links: [
